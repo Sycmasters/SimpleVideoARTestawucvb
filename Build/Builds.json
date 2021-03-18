@@ -1,7 +1,7 @@
 {
 "companyName": "SweetRush",
 "productName": "KeywordPrototype",
-"productVersion": "0.5",
+"productVersion": "0.6",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
